@@ -30,11 +30,11 @@ andy@ub-net-1:~/github/LearningRepo$ git config --global user.email andrewgold20
 
 *Домашнее задание к занятию "Zabbix Part 1" - Знаменский Андрей*
 
-Сюда же будет добавлен скриншот решения заданий 1.
+Скриншот решения заданий 1:
 
 ![Commit Task1](https://github.com/AndrewZnamenskiy/Zabbix_learning_1/blob/main/img/task1p1.png)
 
-6. Переведите файл в состояние staged, командой `git add .`
+6. Переведём файл в состояние staged, командой `git add .`
 
 7. Теперь можно сделать коммит `git commit -m 'Added tasks solution'`
 
